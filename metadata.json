@@ -1,0 +1,7 @@
+{
+  "name": "Magic Gesture Christmas Tree",
+  "description": "An interactive, 3D particle-based Christmas tree that holds your memories. Control it with mouse clicks or hand gestures via camera. Explode the tree to view uploaded photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
